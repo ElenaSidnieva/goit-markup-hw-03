@@ -442,6 +442,18 @@ ul.site-navigation a {
     margin-bottom: 0;
 }
 
+.portfolio-name {
+    padding: 20px 24px 20px 24px;
+}
+
+.portfolio-name h2 {
+    margin-bottom: 4px;
+}
+
+.portfolio-name p {
+    margin: 0;
+}
+
 a h2 {
     color: var(--primary-text-color);
     font-weight: 700;
