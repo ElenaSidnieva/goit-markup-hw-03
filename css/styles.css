@@ -342,6 +342,8 @@ ul.site-navigation a {
     width: 270px;
     background-color: var(--primary-white-color);
     background: #FFFFFF;
+    overflow: hidden;
+    border-radius: 0px 0px 4px 4px;
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
 
 }
@@ -361,7 +363,6 @@ ul.site-navigation a {
     padding: 30px 20px;
     border: 1px solid #EEEEEE;
     border-top: 0;
-    border-radius: 0px 4px 4px 4px;
 
 }
 
